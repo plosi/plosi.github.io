@@ -1,0 +1,95 @@
+# Jobs
+# Humanitarian & PH
+- company: Médecins Sans Frontières (MSF)
+  position: Public Health Engineer, Water and Sanitation
+  duration: Jun, 2018 &mdash; Jun, 2023
+  summary: 'Water and Sanitation (WatSan) Engineer covering different roles (Construction/WatSan Manager, 
+  Team Leader, Coordinator) for both regular projects and emergenciy responses in several low-resource countries 
+  (North East Syria, South Sudan, Bangladesh, DRC, Sudan, Ethiopia, Haiti).
+  Expertise in all aspects of water supply (including drilling, groundwater and surface water treatment, 
+  distribution), sanitation, hygiene, construction, project management, process design, medical facility design, 
+  GIS, pilot-scale testing, assessment/feasibility studies and hydraulic modelling. Leveraging predictive 
+  analytics and machine learning algorythms to address public health challanges.
+
+  <ul class="resume-item-list">
+  <li>I have used my Python programming skills to devise a structured system to analyze and interpret 
+  groundwater monitoring data collected in Bangladesh, before implementing an Internet of Things (IoT) 
+  water management system to remotely monitor the use of water resources and embed sustainability into our 
+  long-term activities</li>
+  <li>I have implemented a standardized methodology to perform data analysis 
+  and system performance optimization of the reverse osmosis (RO) treatment plant in North East Syria.</li>
+  <li>I have contributed to the development of a hydrogeological study for the Somali region of Ethiopia, 
+  aimed at identifying areas critical in terms of water access and availability, using climate forecasting models 
+  and combining environmental and health data to perform a map of potential hotspots for disease outbreaks.</li>
+  </ul>'
+
+# Benchmark
+- company: Benchmark Animal Health
+  position: Lead Technician, CleanTreat® BMK
+  duration:  Jun, 2022 &mdash; Dec, 2022
+  summary: 'Offshore Norway.
+  Responsible for the operational running of the CleanTreat® water purification system 
+  to remove medicinal compounds from the treatment water used to combat disease threats in aquaculture.'
+
+
+# Ramboll
+- company: Ramboll
+  position: Senior Consultant, Environmental Engineer
+  duration: Jun, 2008 &mdash; Jun, 2018
+  summary: 'Experience in managing and coordinating site characterization and remediation projects.
+  Development of environmental and social impact assessments, audit and due diligence assignments 
+  on international projects.'
+
+  # GE
+- company: GE Water & Process Technologies
+  position: Project Engineer
+  duration: Dec, 2007 &mdash; Jun, 2008
+  summary: 'Project Engineer responsible for designing and coordinating activities related to 
+  water and wastewater treatment projects. Main responsibilities include the detailed mechanical design 
+  of UF membranes water/wastewater treatment plants; and the preparation of instrument lists and data sheets, 
+  material requisitions, P&ID and AutoCAD drawings.'
+
+  # Cork
+- company: Cork County Council
+  position: Water Services Engineer
+  duration: Jul, 2006 &mdash; Dec, 2007
+  summary: 'Assessing and carrying out the design of water sources supply and sewer group schemes, 
+  both private and public.
+  Project management from initial feasibility through design stage to completion.
+  In-house complete design for small water supply and sewer schemes, including surveying, hydraulic calculations, 
+  design of pumping stations and water treatment plants.
+  Assessment of the design of mid to large water supply and sewer schemes to be complying with local authorities 
+  standards and Irish regulations.
+  Dealing with contractors, tender documents, technical specifications, budgetary and economic reports.'
+
+  # Bon
+- company: Bonifiche SpA
+  position: Environmental Engineer
+  duration: Dec, 2005 &mdash; Jul, 2006
+  summary: 'Employed to lead the technical office within the Tender Division, dealing with site 
+  characterization and remediation projects.
+  Detailed design of hydraulic barrier as a containment for polluted groundwater.
+  Management and conduction of site investigations including soil sampling and groundwater treatment 
+  facilities installation.
+  Project management and cost control.'
+
+  # SLB
+- company: Schlumberger
+  position: Junior Field Engineer
+  duration: Feb, 2005 &mdash; Aug, 2005
+  summary: 'Trained to join the REX-Eng Team (Rapid Exposure Engineers) as a well tester to conduct 
+  pumping tests on oil and gas wells.
+  Training and certification for offshore exposure in the North Sea and in the Mediterranean Sea.
+  Equipment maintenance, conduction of pressure tests under supervision, training in surface well 
+  testing, data acquisition and phase tester.'
+
+# Foster
+- company: Foster Wheeler Italiana SpA
+  position: Environmental Engineer
+  duration: Feb, 2004 &mdash; Feb, 2005
+  summary: 'Assisting the Project Engineer and the Project Manager in preparing projects 
+  related to environmental management and soil and water remediation in accordance with the former 
+  Italian Environmental Code (DM 471/99).
+  Conduction of environmental investigations including site characterization of an active 
+  industrial site (ENI Refinery in Venice).
+  Preparation of technical reports and field data analysis.'

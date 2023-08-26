@@ -1,0 +1,27 @@
+# Degree
+- degree: Intensive Data Analytics Bootcamp, Computer Programming
+  uni: Ironhack, Lisbon
+  year: 2023
+  # award: Most likely to succeed
+  summary: 'Python (pandas, numpy, matplotlib, seaborn, beautifulsoup, selenium, scipy, scikit-learn)
+  MySQL
+  Git | Github
+  Tableau | PowerBI
+  Descriptive Statistics | Probability Distributions | Bayesian Statistics
+  Artificial Intelligence | Supervised/Unsupervised Machine Learning
+  Deep Learning | Natural Language Processing'
+
+- degree: Diploma, Hydrogeology
+  uni: University of Siena
+  year: 2010
+  # award: Most likely to succeed
+  summary: Groundwater modeling using Visual MODFLOW
+
+- degree: Master's Degree, Environmental Engineering
+  uni: University of Pavia
+  year: 1997 &mdash; 2003
+  # awards:
+    # - award: Summa Cumme Laude graduate
+  summary: 'Hydraulic and Geologic Risk Assessment.
+  Final thesis: risk analysis of an active landslide in Val di Susa using 
+  a finite element modelling software and GIS implementation.'

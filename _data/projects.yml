@@ -1,0 +1,64 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# IoT
+- project: Internet of Things (IoT) monitoring system for WASH facilities in the humanitarian sector
+  role: Developer and Implementer
+  duration: 2020 &mdash; 2021
+  # url: "#"
+  description: 'An Internet of Things (IoT) approach incorporating the LoRaWAN™ 
+  technology to monitor the response of an aquifer system to the sudden increase in demand. 
+  Sensors installed in the field collect real-time data on groundwater levels, water quality, 
+  yield and consumption. Readings are sent to a central gateway that feeds an online dashboard, 
+  allowing the user to remotely monitor in real time the performance of the system and to implement 
+  proper data analysis for long-term solutions.'
+
+# IoT ramboll
+- project: Low cost controller for industrial automation
+  role: Developer and Implementer
+  duration: 2015
+  # url: "#"
+  description: 'By using an Arduino compatible industrial controller (www.industruino.com) 
+  and an industrial 3G gateway, it is possible to remotely control a pump and treat plant 
+  functioning as an emergency response action at a contaminated site. The plant consists of an 
+  extraction well pumping contaminated ground water that is properly treated before its discharge. 
+  The plant must run continuously, as it acts as a barrier to avoid the migration of the contamination. 
+  Different sensors (pressure transducers, flow meters, water level switches, etc.) are connected to 
+  the Arduino that forwards the readings through a secured VPN connection to a remote server, 
+  where measurements are displayed in real time through a web page. Alarm notifications are sent via 
+  SMS to alert for malfunctioning (pump stopped, dry well, etc.).'
+
+- project: Down-well electrical conductivity logging device
+  role: Project Manager
+  duration: 2015
+  url: 'https://github.com/plosi/spdt-yun'
+  description: 'Using a Rapsberry Pi and electrical conductivity probes from Atlas Scientific, 
+  we have designed and assembled a logging device for data acquisition during a single point dilution test 
+  (SPD test). The device was built in order to meet the specific needs related to the field test protocol 
+  and investigation scopes, whereas no commercial solution was available at a reasonable cost.
+  The test was performed on a monitoring well installed in a contaminated site in Central Italy. 
+  The device has proved to produce extremely reliable and accurate data.
+  A paper was prepared to participate to the NICOLE Technology Award in 2015.'
+
+- project: Automated Green Living Wall
+  role: Project Manager and Implementer
+  duration: 2013
+  # url: "#"
+  description: 'Within the project for the renovation of the company new offices, while pursuing (and obtaining) 
+  LEED-CI certification (Gold), among a series of best practices aimed at reducing water consumption, 
+  limiting wastes production, increasing overall energy efficiency, etc., we have focused on improving 
+  the comfort perceived by the inhabitants, i.e. ourselves and any external visitor. 
+  This has been achieved by selecting particular furnishings and materials based on their ergonomics and 
+  environmental impact, and through the installation of a living green wall, located at the entrance of the office.
+  The benefits of a living green wall are tremendous. In terms of physical atmosphere and space, 
+  plants have a positive effect on the occupants, helping in reducing the sick building syndrome. 
+  The system was entirely designed in-house and all the employees collaborated to the installation of the wall.
+  In addition, a series of sensors were installed on the green wall to record different parameters 
+  (such as water level in the underneath reservoir, nutrients concentration, lux levels, etc.) all connected 
+  to a central management system. Future development include the installation of air quality sensors aimed at 
+  recording the levels of carbon dioxide, relative humidity and air temperature, and certain pollutant gases 
+  such as formaldehyde, benzene and nitrogen dioxide. Several studies have in fact demonstrated the capabilities 
+  of indoor plants of filtering air pollutants and improving the overall indoor air quality.
+  The brain consists of an Arduino microcontroller to which all sensors are connected and which reports 
+  to a central gateway displaying the sensor readings on a web interface. Pump cycles, lights, etc., 
+  can be remotely controlled through the web page.'
