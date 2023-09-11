@@ -23,15 +23,16 @@ resume_contact_address:         "Galleria Manzoni, 19 - 27100 Pavia (PV), Italy"
 resume_header_contact_info:     "+39 3492948847 • paolo.mizu@gmail.com.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: '<p>Passionate and highly motivated environmental engineer with a specialization in water, 
-sanitation, and public health engineering. With over 15 years of experience in various sectors, 
-including corporate, government, and humanitarian, I have developed a well-rounded skill set. 
-My expertise covers all aspects of water supply, sanitation, hygiene, construction, project management, 
-and process design. I always strive to find innovative solutions to address public health challenges. 
-I excel in applying predictive analytics and machine learning algorithms to optimize system performance, 
-conduct feasibility studies, and create mapping models to identify potential disease hotspots. 
-I strongly believe in harnessing innovative technologies to improve efficiency and sustainability, 
-particularly in the context of public health and humanitarian work. </p>'
+resume_header_intro: '<p>Passionate and highly motivated environmental engineer with a specialization in water,
+sanitation, and public health engineering. With over 15 years of experience across
+corporate, government, and humanitarian sectors, I have developed a diverse, well-
+rounded skill set. My expertise covers all aspects of water supply, sanitation,
+construction, project management, and process design. I am skilled in applying
+predictive analytics and machine learning algorithms to optimize systems performance,
+conduct feasibility studies, and create mapping models to support epidemiological
+forecasts and outbreak predictions. I strive to find innovative solutions to address public
+health challenges, and I am committed to harnessing technology to improve efficiency
+and sustainability in the context of public health and humanitarian work.</p>'
 #"<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 
 # use "yes" to display the email contact button,
